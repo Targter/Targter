@@ -53,8 +53,4 @@
 ### 📊 GitHub Stats  
 ![Mannat's GitHub stats](https://github-readme-stats.vercel.app/api?username=targter&show_icons=true&theme=tokyonight)     [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=targter%20&theme=tokyonight)](https://git.io/streak-stats)  
 
----
-### 🌟 Activity Graph  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=targter&theme=tokyonight)](https://github.com/targter/github-readme-activity-graph)  
 
----
