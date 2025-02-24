@@ -53,4 +53,3 @@
 ### 📊 GitHub Stats  
 ![Mannat's GitHub stats](https://github-readme-stats.vercel.app/api?username=targter&show_icons=true&theme=tokyonight)     [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=targter%20&theme=tokyonight)](https://git.io/streak-stats)  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=targter&show_icons=true&locale=en&theme=tokyonight" alt="Abhay bansal" />      </p><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=targter&&theme=tokyonight" alt="abhay bansal" /></p>
