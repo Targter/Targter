@@ -50,9 +50,8 @@
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  ![Packet Tracer](https://img.shields.io/badge/Packet%20Tracer-008CC1?style=for-the-badge&logo=cisco&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
 ---
 
-[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rishavchanda&&theme=xcode)](https://github.com/rishavchanda)
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=targter&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Abhay bansal" /></p>
+### 📊 GitHub Stats  
+![Mannat's GitHub stats](https://github-readme-stats.vercel.app/api?username=targter&show_icons=true&theme=github-light)  [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=targter%20&theme=github-light)](https://git.io/streak-stats)  
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=targter&show_icons=true&locale=en&theme=tokyonight" alt="Abhay bansal" /></p>
 
