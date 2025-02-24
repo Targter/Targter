@@ -48,8 +48,10 @@
 ---
 
 ### 📊 GitHub Stats  
-![Abhay Bansal GitHub stats](https://github-readme-stats.vercel.app/api?username=targter&show_icons=true&theme=tokyonight)     [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=targter%20&theme=tokyonight)](https://git.io/streak-stats)  
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=targter&show_icons=true&theme=tokyonight" alt="Abhay Bansal GitHub Stats" style="margin-right: 20px;">
+  <img src="https://nirzak-streak-stats.vercel.app?user=targter&theme=tokyonight" alt="GitHub Streak">
+</p>
 ---
 
 
