@@ -51,7 +51,7 @@
 ---
 
 ### 📊 GitHub Stats  
-![Mannat's GitHub stats](https://github-readme-stats.vercel.app/api?username=targter&show_icons=true&theme=github-light)  [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=targter%20&theme=github-light)](https://git.io/streak-stats)  
+![Mannat's GitHub stats](https://github-readme-stats.vercel.app/api?username=targter&show_icons=true&theme=github-dark)  [![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=targter%20&theme=github-light)](https://git.io/streak-stats)  
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=targter&show_icons=true&locale=en&theme=tokyonight" alt="Abhay bansal" /></p>
 
