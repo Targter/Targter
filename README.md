@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about ** FULL STACK APPLICATION , THREEJS AND OPEN AI **
+- 💬 Ask me about ** FULL STACK APPLICATION ,REACTJS , NEXTJS , EXPRESS JS , THREEJS AND OPEN AI **
 
 - 📫 How to reach me **bansalabhay00@gmail.com**
 
