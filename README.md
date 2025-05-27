@@ -6,15 +6,13 @@
 
 <p align="left"> <a href="https://x.com/AbCheckk" target="blank"><img src="https://img.shields.io/twitter/follow/targter?logo=twitter&style=for-the-badge" alt="Abhay Bansal"  </p>
 
-- 🔭 I’m currently working on **Full Stack Developer**
-
-- 🌱 I’m currently learning **DevOps**
-
-- 💬 Ask me about ** FULL STACK APPLICATION ,REACTJS , NEXTJS , EXPRESS JS , THREEJS AND OPEN AI **
-
-- 📫 How to reach me **bansalabhay00@gmail.com**
-
-- ⚡ Fun fact **I am Cute**
+- 🔭 I’m currently working on **AI-powered full stack platforms**  
+- 🌱 Learning more about **DevOps, Docker, and Kubernetes**  
+- 💬 Ask me about **React, Next.js, Express.js, Three.js, OpenAI, WebContainers, AWS S3**  
+- 🚀 Built a **3D AI Assistant** using **Three.js, Rhumba, and OpenAI**  
+- 📫 Reach me at **bansalabhay00@gmail.com**  
+- 📎 Connect on [LinkedIn](https://www.linkedin.com/in/abhay-bansal1)  
+- ⚡ Fun fact: **I turn ideas into code with a ☕ in hand**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
