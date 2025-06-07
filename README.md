@@ -11,7 +11,7 @@
 - 💬 Ask me about **React, Next.js, Express.js, Three.js, OpenAI, WebContainers, AWS S3**  
 - 🚀 Built a **3D AI Assistant** using **Three.js, Rhumba, and OpenAI**  
 - 📫 Reach me at **bansalabhay00@gmail.com**  
-- 📎 Connect on [LinkedIn](https://www.linkedin.com/in/abhay-bansal1)  
+- 📎 Connect on [LinkedIn](https://www.linkedin.com/in/bansalabhay)  
 - ⚡ Fun fact: **I turn ideas into code with a ☕ in hand**
 
 <h3 align="left">Connect with me:</h3>
