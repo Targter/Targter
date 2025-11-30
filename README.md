@@ -1,6 +1,7 @@
 <!-- KEY VISUAL HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0d1117,00599C,0d1117&height=280&section=header&text=Abhay%20Bansal&fontSize=80&fontAlignY=35&desc=Full%20Stack%20AI%20Engineer%20%7C%20Web3%20Innovator%20%7C%203D%20Architect&descAlignY=60&descAlign=50&animation=fadeIn" width="100%" alt="Abhay Bansal Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=280&section=header&text=Abhay%20Bansal&fontSize=80&fontAlignY=35&desc=Full%20Stack%20AI%20Engineer%20%7C%20Web3%20Innovator%20%7C%203D%20Architect&descAlignY=60&descAlign=50&animation=fadeIn
+" width="100%" alt="Abhay Bansal Header"/>
 </div>
 
 <!-- SOCIAL BADGES -->
