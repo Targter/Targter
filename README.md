@@ -23,7 +23,7 @@
 
 <!-- INTRO SECTION -->
 <div align="center">
-  <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+  <img align="right" alt="Coding" width="300" src="https://github.com/Targter/Targter/blob/4cc4bbe91e2e332f95dab23c3a65e6aaa0bc9a44/ABHAY_ANIMATED.mp4">
 </div>
 
 # 🚀 **Professional Summary**
