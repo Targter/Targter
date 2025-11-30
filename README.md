@@ -23,8 +23,8 @@
 
 <!-- INTRO SECTION -->
 <div align="center">
-  <!-- <img align="right" alt="Coding" width="300" src="https://github.com/Targter/Targter/blob/4f3d9266ec25cd5b069aae2696706fd189385caf/AI_Developer_Video_Generation_Request.mp4"> -->
-  <video src="https://github.com/Targter/Targter/blob/4f3d9266ec25cd5b069aae2696706fd189385caf/AI_Developer_Video_Generation_Request.mp4" width="300" controls muted autoplay></video>
+  <img align="right" alt="Coding" width="300" src="https://github.com/Targter/Targter/blob/094702689885c6a47541cefe38f1f854f3df0c24/finalGif.gif">
+  <!-- <video src="https://github.com/Targter/Targter/blob/4f3d9266ec25cd5b069aae2696706fd189385caf/AI_Developer_Video_Generation_Request.mp4" width="300" controls muted autoplay></video> -->
 </div>
 
 # 🚀 **Professional Summary**
