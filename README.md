@@ -23,7 +23,7 @@
 
 <!-- INTRO SECTION -->
 <div align="center">
-  <img align="right" alt="Coding" width="300" src="https://github.com/Targter/Targter/blob/4cc4bbe91e2e332f95dab23c3a65e6aaa0bc9a44/ABHAY_ANIMATED.mp4">
+  <img align="right" alt="Coding" width="300" src="https://github.com/Targter/Targter/blob/4f3d9266ec25cd5b069aae2696706fd189385caf/AI_Developer_Video_Generation_Request.mp4">
 </div>
 
 # 🚀 **Professional Summary**
