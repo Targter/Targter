@@ -1,7 +1,8 @@
 <!-- KEY VISUAL HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=00111F,002F5F,00111F&height=90&section=header&text=&animation=fadeIn" width="100%" alt="Abhay Bansal Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=000814,001D3D,000814&height=90&section=header&text=%20" width="100%" alt="Abhay Bansal Header"/>
 </div>
+
 
 <!-- SOCIAL BADGES -->
 <div align="center">
