@@ -49,17 +49,6 @@ I am a **Full Stack & AI Engineer** specializing in building intelligent systems
 | **🛢 Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
 
 ---
-
-# 💼 **Industry Experience**
-
-### **Full Stack AI Engineer Intern** @ [Dripvive](https://dripvive.com)
-*   *Engineered AI-driven recommendation engines to personalize user experiences.*
-*   *Optimized backend performance and API response times for high-traffic endpoints.*
-*   *Collaborated in a hybrid environment to deploy scalable Next.js applications.*
-
-### **Frontend Developer Intern** @ Systeck Solutions
-### **Intern** @ Celebal Technologies
-
 ---
 
 # 🏆 **Featured Engineering Projects**
